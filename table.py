@@ -47,6 +47,5 @@ if __name__ == '__main__':
         tommy.forward(lenght)
         tommy.setheading(0)
 
-    tommy.setx(0)
-    tommy.sety(0)
+    tommy.home()
     input('Press ENTER to exit')
